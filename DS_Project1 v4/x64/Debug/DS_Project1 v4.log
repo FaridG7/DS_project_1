@@ -1,0 +1,6 @@
+﻿  Source.cpp
+E:\C++ Projects\DS_Project1 v4\DS_Project1 v4\Source.cpp(515,26): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+E:\C++ Projects\DS_Project1 v4\DS_Project1 v4\Source.cpp(277): warning C4715: 'database::Get_Cdown': not all control paths return a value
+E:\C++ Projects\DS_Project1 v4\DS_Project1 v4\Source.cpp(285): warning C4715: 'database::Get_Bdown': not all control paths return a value
+E:\C++ Projects\DS_Project1 v4\DS_Project1 v4\Source.cpp(293): warning C4715: 'database::Get_Mdown': not all control paths return a value
+  DS_Project1 v4.vcxproj -> E:\C++ Projects\DS_Project1 v4\x64\Debug\DS_Project1 v4.exe
