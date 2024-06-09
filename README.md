@@ -1,2 +1,8 @@
-This project was my first project of the Data structures class in jundi shapoor university.
-The project was about creating a 4 layer linked list for storing cars and with the ability to output the data as a json.
+Name: Data Structures project #1
+
+Date: November 2022
+
+Key points:
+  1) storing and sorting cars in a database
+  2) Using the multi level linked lists
+  3) JSON type output
